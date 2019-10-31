@@ -1,3 +1,7 @@
 code {
     white-space: pre;
 }
+
+p {
+    color: #111;
+}
